@@ -1,0 +1,6 @@
+framework module Pods_BarceloneBusUITests {
+  umbrella header "Pods-BarceloneBusUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
