@@ -5,10 +5,11 @@ Users can see all pictures taken near a selected bus station name
 
 # Notes
 Barcelona Urban Mobility API: http://barcelonaapi.marcpous.com
-RxSwift
-Firebase
-MapKit
-CoreLocation
+
+RxSwift, 
+Firebase, 
+MapKit, 
+CoreLocation, 
 AVFoundation
 
 # Installation
